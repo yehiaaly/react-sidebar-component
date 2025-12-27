@@ -6,7 +6,7 @@ A highly flexible, recursive sidebar component built with **React 19**, **Tailwi
 
 ## 🚀 Live Demo
 
-Check out the live demo here: [Live Demo](https://react-sidebar-component-pages.dev/)
+Check out the live demo here: [Live Demo](https://react-sidebar-component.pages.dev/)
 
 ## ✨ Features
 
